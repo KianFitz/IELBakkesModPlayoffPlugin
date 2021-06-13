@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/Release
+/x64
+
+*.vcxproj.user
+/.vs
